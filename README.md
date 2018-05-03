@@ -1,4 +1,4 @@
-# dups
+# dups [![wercker status](https://app.wercker.com/status/abc70f396f16efc5f27747175a33f956/s/master "wercker status")](https://app.wercker.com/project/byKey/abc70f396f16efc5f27747175a33f956)
 find duplicates in a list of files
 
 Install:
